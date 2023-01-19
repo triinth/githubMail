@@ -16,4 +16,4 @@ jobs:
           to: triintahk@gmail.com
           from: Github actions
           body:  Lisati uus push ${{github.repository}}! 
-          test:
+        
