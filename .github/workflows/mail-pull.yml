@@ -15,4 +15,5 @@ jobs:
           subject: Uus push
           to: triintahk@gmail.com
           from: Github actions
-          body:  Lisati uus push ${{github.repository}}!
+          body:  Lisati uus push ${{github.repository}}! 
+          test:
